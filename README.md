@@ -331,7 +331,7 @@ Sincere gratitude to:
 
 - **[Dhaval Patel](https://www.linkedin.com/in/dhavalsays/)** — for designing a curriculum that teaches real-world business context, not just tool features
 - **[Hemanand Vadivel](https://www.linkedin.com/in/hemvad/)** — for the depth of DAX and data modeling instruction
-- **The Codebasics Community** — for the peer learning environment that pushed the bar higher every day
+- **[The Codebasics Community](https://www.linkedin.com/company/codebasics/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BvR8ttSthSvyvlNs8QY99cQ%3D%3D)** — for the peer learning environment that pushed the bar higher every day
 
 ---
 
