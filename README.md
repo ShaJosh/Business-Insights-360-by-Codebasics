@@ -295,7 +295,6 @@ BI360-ObsidianIntelligence/
 ├── 📁 Theme/
 │   └── BI360_ObsidianIntelligence_Theme.json
 │
-├── 📄 BI360_ObsidianIntelligence_v1.pbix
 └── 📄 README.md
 ```
 
