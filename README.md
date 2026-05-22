@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_DASHBOARD_LINK_HERE">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiN2FhMjdkMWYtODU4YS00ZGQ4LWEwMWQtZGJhYmEzNzkzZTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
     <img src="https://img.shields.io/badge/🚀_Live_Dashboard-Open_in_Power_BI-00D4AA?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="YOUR_DEMO_VIDEO_LINK_HERE">
+  <a href="https://drive.google.com/file/d/1zLZ1euSrRhAkkiuYrOVATCC6S5Lezihb/view?usp=drive_link">
     <img src="https://img.shields.io/badge/🎬_Demo_Video-Watch_Walkthrough-F85149?style=for-the-badge"/>
   </a>
 </p>
@@ -344,8 +344,8 @@ Sincere gratitude to:
 
 The QA mindset never leaves — it just found a new domain. Every dashboard element was tested, validated, and refined until it was right.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shashank-shankar-joshi-b5133055)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ShaJosh/Business-Insights-360-by-Codebasics)
 
 ---
 
