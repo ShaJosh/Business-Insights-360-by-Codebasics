@@ -1,0 +1,45 @@
+{
+  "name": "Obsidian Intelligence",
+  "dataColors": [
+    "#00D4AA",
+    "#F0A500",
+    "#7C6DFA",
+    "#3FB950",
+    "#F85149",
+    "#1F6FEB",
+    "#E6EDF3",
+    "#8B949E"
+  ],
+  "background": "#0D1117",
+  "foreground": "#E6EDF3",
+  "tableAccent": "#00D4AA",
+  "good": "#3FB950",
+  "neutral": "#F0A500",
+  "bad": "#F85149",
+  "maximum": "#00D4AA",
+  "center": "#F0A500",
+  "minimum": "#F85149",
+  "null": "#30363D",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI",
+      "color": "#00D4AA"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#E6EDF3"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#E6EDF3"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#8B949E"
+    }
+  }
+}
