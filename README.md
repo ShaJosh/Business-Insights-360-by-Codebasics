@@ -343,7 +343,7 @@ Sincere gratitude to:
 
 The QA mindset never leaves — it just found a new domain. Every dashboard element was tested, validated, and refined until it was right.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-shankar-joshi-b5133055/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-shankar-joshi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ShaJosh/Business-Insights-360-by-Codebasics)
 
 ---
